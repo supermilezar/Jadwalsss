@@ -1,0 +1,101 @@
+[
+  {
+    "no": 1,
+    "kode": "EBIE222101",
+    "mataKuliah": "Ekonomika Pengantar 1",
+    "kelas": "FR123",
+    "sks": 3,
+    "ke": 1,
+    "pengajar": "Rokhedi Priyo Santoso, MIDEC",
+    "jadwalKuliah": "Kamis, 10:00-12:30",
+    "ruang": "Ruang U-212"
+  },
+  {
+    "no": 2,
+    "kode": "EBIE222102",
+    "mataKuliah": "Matematika 1",
+    "kelas": "CR123",
+    "sks": 3,
+    "ke": 1,
+    "pengajar": "Esa Azali Asyahid, S.E., M.Sc., Muhammad Ryan Sanjaya, S.E., M.Int.Dev.Ec., Ph.D.",
+    "jadwalKuliah": "Senin, 07:00-09:30",
+    "ruang": "Ruang U-312"
+  },
+  {
+    "no": 2,
+    "kode": "EBIE222102",
+    "mataKuliah": "Matematika 1",
+    "kelas": "CR123",
+    "sks": 3,
+    "ke": 1,
+    "pengajar": "Esa Azali Asyahid, S.E., M.Sc., Muhammad Ryan Sanjaya, S.E., M.Int.Dev.Ec., Ph.D.",
+    "jadwalKuliah": "Selasa, 07:00-09:30",
+    "ruang": "Ruang Daring 1"
+  },
+  {
+    "no": 3,
+    "kode": "EBIE222104",
+    "mataKuliah": "Statistika 1",
+    "kelas": "FR2",
+    "sks": 3,
+    "ke": 1,
+    "pengajar": "Gunawan, B.Sc., M.Sc., Dipl.Stat.Ec., Ph.D., Evi Noor Afifah, Dr., S.E., M.S.E.",
+    "jadwalKuliah": "Kamis, 07:00-09:30",
+    "ruang": "Ruang U-212"
+  },
+  {
+    "no": 4,
+    "kode": "EBIE222105",
+    "mataKuliah": "Komunikasi Publik",
+    "kelas": "BR2",
+    "sks": 2,
+    "ke": 1,
+    "pengajar": "Nyarwi Ahmad, S.I.P., M.Si., Ph.D., Mashita Phitaloka Fandia Purwaningtyas, S.I.P., M.A.",
+    "jadwalKuliah": "Kamis, 13:00-14:40",
+    "ruang": "Ruang U-203"
+  },
+  {
+    "no": 5,
+    "kode": "UNU1000",
+    "mataKuliah": "Pendidikan Agama Islam 1",
+    "kelas": "PAI11",
+    "sks": 2,
+    "ke": 1,
+    "pengajar": "Syarif Hidayatullah, S.Ag., M.Ag., M.A.",
+    "jadwalKuliah": "Selasa, 16:05-17:35",
+    "ruang": "Ruang FI-C205 Ged c lt 2 Fak Filsafat (7xpertemuan daring)"
+  },
+  {
+    "no": 6,
+    "kode": "AKU1601",
+    "mataKuliah": "Akuntansi Pengantar",
+    "kelas": "BR123",
+    "sks": 3,
+    "ke": 1,
+    "pengajar": "Singgih Wijayana, S.E., M.Si., Ph.D.",
+    "jadwalKuliah": "Senin, 13:00-15:30",
+    "ruang": "Ruang U-303"
+  },
+  {
+    "no": 7,
+    "kode": "AKU1601A",
+    "mataKuliah": "Tutorial Akuntansi Pengantar",
+    "kelas": "BR123",
+    "sks": 0,
+    "ke": 1,
+    "pengajar": "Dosen V",
+    "jadwalKuliah": "Selasa, 18:00-19:00",
+    "ruang": "Ruang T-101"
+  },
+  {
+    "no": 8,
+    "kode": "EBMN212101",
+    "mataKuliah": "Bisnis Pengantar",
+    "kelas": "HR123",
+    "sks": 3,
+    "ke": 1,
+    "pengajar": "Prof. Amin Wibowo, S.E., M.B.A., Ph.D., Rina Herani, S.E., M.Sc.",
+    "jadwalKuliah": "Rabu, 07:00-09:30",
+    "ruang": "Ruang U-304"
+  }
+]
